@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "notes": "### ¹ú¼ʻ¯ / Internationalization\r\n- ÍêÕûÖÐӢÎÄ˫Óï֧³֣¬ÉèÖÃҳÃæÌí¼ÓÓïÑÔѡÔñÆ÷£¬Çл»¼´ʱÉúЧ\r\n  Full bilingual support (zh-CN/en-US) with language selector in settings, instant switching\r\n- ËùÓÐ UI ×ַû´®ͨ¹ý i18n ģ¿鼯ÖйÜÀí\r\n  All UI strings managed centrally via i18n module\r\n- ¾²̬ HTML ͨ¹ý `data-i18n` ÊôÐÔ×Զ¯·­Ò룬¶¯̬ÄÚÈÝͨ¹ý `t()` º¯Êýµ÷ÓÃ\r\n  Static HTML auto-translated via `data-i18n` attributes, dynamic content via `t()` function\r\n- ºó¶ËÅäÖÃÐÂÔö `lang` ×ֶγ־û¯ÓïÑÔƫºÃ\r\n  New `lang` field in backend config for language preference persistence\r\n### ¹ú¼ʻ¯ / Internationalization\r\n- ÍêÕûÖÐӢÎÄ˫Óï֧³֣¬ÉèÖÃҳÃæÌí¼ÓÓïÑÔѡÔñÆ÷£¬Çл»¼´ʱÉúЧ\r\n  Full bilingual support (zh-CN/en-US) with language selector in settings, instant switching\r\n- ËùÓÐ UI ×ַû´®ͨ¹ý i18n ģ¿鼯ÖйÜÀí\r\n  All UI strings managed centrally via i18n module\r\n- ¾²̬ HTML ͨ¹ý `data-i18n` ÊôÐÔ×Զ¯·­Ò룬¶¯̬ÄÚÈÝͨ¹ý `t()` º¯Êýµ÷ÓÃ\r\n  Static HTML auto-translated via `data-i18n` attributes, dynamic content via `t()` function\r\n- ºó¶ËÅäÖÃÐÂÔö `lang` ×ֶγ־û¯ÓïÑÔƫºÃ\r\n  New `lang` field in backend config for language preference persistence",
-  "pub_date": "2026-06-29T08:26:18Z",
+  "pub_date": "2026-06-29T08:37:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZXZFVkRFMDZNelhYQXdVeVdjRllvVkxxYlZpZFd0Tlk3VktzL2NTZm81eFlDcVVYV29RUXBxN1MyY0pQd1FBVzNVNmg4ZmtyNE8wQU1EaWdZNnIzOUc0LzJkSnp4L0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzEzOTgwCWZpbGU6ZG9uZS0wLjEuMS13aW5kb3dzLXg4Nl82NC5tc2kKTWhUQmIzTXhHYmluKyttdnNVdjJXTHVUZ05jd2FSdFhhS1RQRWZ5NVZJWnpGK294YzUzTnlPMTVoU21lK3RCYW5LUXM3OXNXdVdWL1JQL2NUQWw4QlE9PQo=",
-      "url": "https://github.com/catcuts/ClauDone/releases/download/v0.1.1/done-0.1.1-windows-x86_64.msi"
+      "url": "https://gitee.com/catcuts/ClauDone/releases/download/v0.1.1/done-0.1.1-windows-x86_64.msi"
     }
   }
 }
