@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
   "notes": "### 会话管理\n- IM 风格扁平化会话列表，支持按项目/日期/标签三种分组模式\n- 多会话并行管理，独立终端保持，切换不中断\n- 会话状态实时追踪：工作中、新消息、闲置、休眠、僵尸\n- 批量选择模式：批量关闭、删除、标记已读\n- 活动会话置顶，窗口聚焦自动同步外部新建的会话\n- 单实例检测，重复启动时激活已有窗口\n\n### 终端集成\n- 基于 xterm.js 的内嵌终端，scrollback 50000 行\n- 附加终端：独立开启 Shell，持久化与休眠唤醒\n- 终端快捷键自定义\n\n### 消息编辑器\n- 文件/终端引用标签，可拖放插入\n- 收藏夹和快捷文本片段\n- 快捷命令编辑器\n- 草稿自动保存与恢复\n- 历史消息侧边栏\n\n### 会话信息\n- 卡片显示模型标签、上下文使用百分比\n- 悬浮详情卡片\n- 右键菜单：切换模型、跳转分组、复制 ID\n\n### 主题与外观\n- 深色/浅色/跟随系统\n- 自定义标题栏\n- 任务栏图标闪动提醒\n- 左侧导航栏\n\n### 设置\n- Debug/Release 数据目录隔离\n- 回收站：软删除、恢复、彻底删除\n- 导出/导入配置\n- 启动时检查更新\n\n### 系统\n- Windows Job Object 进程树管理\n- 三层 conhost 孤儿进程清理\n- 窗口位置持久化 + 多屏边界校验\n- 支持最小化到托盘\n\n### 在线更新\n- 检查更新（Gitee + jsDelivr CDN + GitHub 三层端点）\n- 下载更新（MSI 安装包，进度回调）\n- 下载完成后确认重启安装\n- 启动时自动检查（可在设置中关闭）\n### 会话管理\n- IM 风格扁平化会话列表，支持按项目/日期/标签三种分组模式\n- 多会话并行管理，独立终端保持，切换不中断\n- 会话状态实时追踪：工作中、新消息、闲置、休眠、僵尸\n- 批量选择模式：批量关闭、删除、标记已读\n- 活动会话置顶，窗口聚焦自动同步外部新建的会话\n- 单实例检测，重复启动时激活已有窗口\n\n### 终端集成\n- 基于 xterm.js 的内嵌终端，scrollback 50000 行\n- 附加终端：独立开启 Shell，持久化与休眠唤醒\n- 终端快捷键自定义\n\n### 消息编辑器\n- 文件/终端引用标签，可拖放插入\n- 收藏夹和快捷文本片段\n- 快捷命令编辑器\n- 草稿自动保存与恢复\n- 历史消息侧边栏\n\n### 会话信息\n- 卡片显示模型标签、上下文使用百分比\n- 悬浮详情卡片\n- 右键菜单：切换模型、跳转分组、复制 ID\n\n### 主题与外观\n- 深色/浅色/跟随系统\n- 自定义标题栏\n- 任务栏图标闪动提醒\n- 左侧导航栏\n\n### 设置\n- Debug/Release 数据目录隔离\n- 回收站：软删除、恢复、彻底删除\n- 导出/导入配置\n- 启动时检查更新\n\n### 系统\n- Windows Job Object 进程树管理\n- 三层 conhost 孤儿进程清理\n- 窗口位置持久化 + 多屏边界校验\n- 支持最小化到托盘\n\n### 在线更新\n- 检查更新（Gitee + jsDelivr CDN + GitHub 三层端点）\n- 下载更新（MSI 安装包，进度回调）\n- 下载完成后确认重启安装\n- 启动时自动检查（可在设置中关闭）",
-  "pub_date": "2026-06-28T06:31:47Z",
+  "pub_date": "2026-06-29T01:11:41Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZXZFVkRFMDZNelpxVHRDS05oQTdxU0tNWkpHWXliZWY5QTB4SUo2UDhkNU1CYjE5ME1xODNGYWowekw0YWZmcXhORXFIMlo2K0REZ2kwenN6bUNPWi8vSXpJZ3RtY0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjI2NjE5CWZpbGU6ZG9uZV8wLjEuMF94NjRfZW4tVVMubXNpCmJlWFJxYzR1WWVsWnM1cHdsQytVK29Nb2NxK1kwZGFHdHgwaTBmNmxVZ2xXR29JREpWeGdIWnRhKytvTndtZ0VpN2hvMFRXTnloamZpZVBBQUpMK0FBPT0K",
-      "url": "https://github.com/catcuts/ClauDone/releases/download/v0.1.0/done_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZXZFVkRFMDZNellwSjByMjlOKzVmUkZVSXhQVXdQWkRROTVVZGVUaUlRUGFUd3hBVU5oTER3SWhoWTdLa3JiVWxFd2ovUGpOOU8zTjd3NmVzMU43RUdubDhWV0lkRmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjkzMjkyCWZpbGU6ZG9uZV8wLjEuMF93aW5kb3dzX3g4Nl82NC5tc2kKcVdEZDVQZE5MWVh3TWVrOElFbEloVmRTamhPemwzdG9Jc0N0UFY3YkRmQmFnWWZzRDVsZThyRFpMandmOE5zdW8yUlJQTXR1OCtJT3psbDZsalhTQ0E9PQo=",
+      "url": "https://github.com/catcuts/ClauDone/releases/download/v0.1.0/done-0.1.0-windows-x86_64.msi"
     }
   }
 }
