@@ -1,7 +1,7 @@
 {
   "version": "0.1.1",
   "notes": "### 国际化 / Internationalization\n- 完整中英文双语支持，设置页面添加语言选择器，切换即时生效\n  Full bilingual support (zh-CN/en-US) with language selector in settings, instant switching\n- 所有 UI 字符串通过 i18n 模块集中管理\n  All UI strings managed centrally via i18n module\n- 静态 HTML 通过 `data-i18n` 属性自动翻译，动态内容通过 `t()` 函数调用\n  Static HTML auto-translated via `data-i18n` attributes, dynamic content via `t()` function\n- 后端配置新增 `lang` 字段持久化语言偏好\n  New `lang` field in backend config for language preference persistence",
-  "pub_date": "2026-06-29T08:55:27Z",
+  "pub_date": "2026-06-29T08:55:52Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZXZFVkRFMDZNelhYQXdVeVdjRllvVkxxYlZpZFd0Tlk3VktzL2NTZm81eFlDcVVYV29RUXBxN1MyY0pQd1FBVzNVNmg4ZmtyNE8wQU1EaWdZNnIzOUc0LzJkSnp4L0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzEzOTgwCWZpbGU6ZG9uZS0wLjEuMS13aW5kb3dzLXg4Nl82NC5tc2kKTWhUQmIzTXhHYmluKyttdnNVdjJXTHVUZ05jd2FSdFhhS1RQRWZ5NVZJWnpGK294YzUzTnlPMTVoU21lK3RCYW5LUXM3OXNXdVdWL1JQL2NUQWw4QlE9PQo=",
